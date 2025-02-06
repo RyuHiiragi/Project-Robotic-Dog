@@ -135,7 +135,10 @@ Starting from pin 20 on the MEGA2560:
 2. Addition of sensor integration for stability
 3. Dynamic gait parameter adjustment
 4. Implementation of additional gaits (walk, gallop)
-5. Enhanced backward movement capabilities
+
+
+
+6. Enhanced backward movement capabilities
 
 ## Usage Notes
 1. Ensure all servo connections match the pin configuration
@@ -143,4 +146,3 @@ Starting from pin 20 on the MEGA2560:
 3. Allow for complete initialization before sending movement commands
 4. Monitor servo temperatures during extended operation
 5. Maintain stable power supply for consistent operation
-
